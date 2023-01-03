@@ -1,0 +1,12 @@
+.App {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #fdf991;
+  text-align: center;
+}
